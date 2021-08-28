@@ -1,0 +1,24 @@
+Tienda de tecnologia 
+
+
+Con la temática asignada implementar el backend (MongoDB-Express-NodeJS) y 
+frontend (AngularJS) que permita la gestión de la información relacionada a sus productos.
+El diseño de frontend debe contener un CRUD completo, incluyendo uno que permita realizar 
+una busqueda de un producto mediante el nombre.
+
+
+
+Recuerda que el frontend que debe contener los respectivos logos, estilos y formulario de 
+contacto con ubicación geográfica.
+
+ 
+
+Para entregar la solución realice lo siguiente:
+
+Genere las capturas necesarias e inclúyalas en un archivo docx.
+Ubique el documento anterior en un directorio llamado capturas.
+Comprima todo el proyecto generado sin el directorio node_modules.
+El archivo comprimido debe tener el siguiente formato Apellido_Nombre_E_IIB_W
+Suba el archivo comprimido.
+NOTA: Recuerda que puedes utilizar la información de sitios existentes, sin embargo,
+el diseño del frontend debe ser una creación suya.
